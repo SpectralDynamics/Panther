@@ -35,7 +35,7 @@ This development branch is based on the ADI Xilinx Linux v6.1 branch for periphe
 ```bash
 export ARCH=arm
 export CROSS_COMPILE=arm-linux-gnueabihf-
-make xilinx_zynq_defconfig
+make spectral_panther_defconfig
 make -j2 UIMAGE_LOADADDR=0x8000 uImage
 ```
 
