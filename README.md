@@ -6,7 +6,7 @@
 
 # Spectral Dynamics Xilinx Linux Kernel 6.1 Branch
 
-This development branch is based on the ADI Xilinx Linux v6.1 branch for peripherals that are integrated with Xilinx FPGAs.
+This development branch is based on the ADI Xilinx Linux v6.1 branch for peripherals that are integrated with Xilinx FPGAs with custom drivers for Spectral Dynamics Panther peripherals.
 
 > **Based on:** [analogdevicesinc/linux](https://github.com/analogdevicesinc/linux) — ADI Xilinx Linux v6.1 branch
 
